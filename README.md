@@ -1,9 +1,7 @@
 # 👨‍💻 Maxime Danic 
-**`Coding enthusiast! `**
+**`🚀 Coding enthusiast!  `**
 
 👋 Hey there 
-
-🚀 After a few years of serving tables and taking orders, I decided to pursue my passion for front-end development. 
 
 📚 I'm currently a student at OpenClassrooms, learning the ins and outs of web development and sharpening my coding skills.
 
