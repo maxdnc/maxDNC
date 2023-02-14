@@ -1,5 +1,5 @@
 # 👨‍💻 Maxime Danic 
-**`🚀 Coding enthusiast!  `**
+**`🚀 Coding enthusiast! 🚀 `**
 
 👋 Hey there 
 
