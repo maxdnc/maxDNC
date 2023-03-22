@@ -3,7 +3,7 @@
 
 👋 Hey there 
 
-📚 I'm currently a student at OpenClassrooms, learning the ins and outs of web development and sharpening my coding skills.
+📚 Learning the ins and outs of web development and sharpening my coding skills.
 
 💡 I've always had a knack for solving problems and that's one of the reasons why I love coding. Whether it's fixing bugs in a website or coming up with creative solutions to tricky design challenges, I'm always up for a challenge. 
 
@@ -20,5 +20,5 @@
 <img align="left" alt="SaSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <br />
