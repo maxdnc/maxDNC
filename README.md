@@ -34,6 +34,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374167/vite.svg" />
 <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373446/astro.svg" />
+<img align="left" alt="FireBase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 
 
 
