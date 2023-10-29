@@ -11,6 +11,8 @@
 
 🙏 I'm always looking for new opportunities to learn and grow both personally and professionally, and I can't wait to see where this journey takes me!
 
+---
+
 ### 👉 [Check out my portfolio](https://maxime-danic.com/)
 
 
