@@ -1,15 +1,14 @@
 # 👨‍💻 Maxime Danic 
-**`🚀 Coding enthusiast! 🚀 `**
 
-👋 Hey there 
+🌍 Founder and Developer of Omorsea.com | Web Developer | Problem Solver
 
-📚 Learning the ins and outs of web development and sharpening my coding skills.
+As the founder and developer of Omorsea, I created a platform that enables users to organize and participate in environmental cleanup events. This project combines my passion for web development with my commitment to positive ecological impact. Building this solution from the ground up has enhanced my technical expertise and project management skills.
 
-💡 I've always had a knack for solving problems and that's one of the reasons why I love coding. Whether it's fixing bugs in a website or coming up with creative solutions to tricky design challenges, I'm always up for a challenge. 
+My web development approach focuses on creating accessible, high-performing, and scalable applications. I thrive on complex challenges, whether optimizing performance or designing intuitive interfaces. I am committed to producing maintainable, reusable, and scalable code that allows projects to grow efficiently.
 
-🌱 I advocate for accessibility, inclusivity, and scalable coding practices to create an empowering and adaptable digital environment.
+Accessibility, modularity, and scalability form the fundamental pillars of my development philosophy.
 
-🙏 I'm always looking for new opportunities to learn and grow both personally and professionally, and I can't wait to see where this journey takes me!
+Continuously learning the ins and outs of web development and sharpening my coding skills.
 
 ---
 
