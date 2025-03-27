@@ -1,6 +1,6 @@
 # 👨‍💻 Maxime Danic 
 
-🌍 Founder and Developer of [Omorsea.com](https://omorsea.com/) | Web Developer | Problem Solver
+## 🌍 Founder and Developer of [Omorsea.com](https://omorsea.com/) | Web Developer | Problem Solver
 
 As the founder and developer of Omorsea, I created a platform that enables users to organize and participate in environmental cleanup events. This project combines my passion for web development with my commitment to positive ecological impact. Building this solution from the ground up has enhanced my technical expertise and project management skills.
 
